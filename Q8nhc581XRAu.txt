@@ -1,4 +1,4 @@
-Q8nhc581XRAu
+Q8nhc581XRAu --- thay doi
 
 
 chmod +x qt-opensource-linux-x64-5.9.0.run
